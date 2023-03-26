@@ -3,7 +3,7 @@ Write a function that takes an array of integers and returns the sum of the inte
 */ 
 
 /*
-function sumArray(array) {
+function sumArray() {
     const ourArray = [1, 4, 0, 9, -3];
     let sum = 0;
   
