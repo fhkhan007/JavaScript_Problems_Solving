@@ -1,0 +1,1501 @@
+Here are 500 logic-building JavaScript questions that can help you sharpen your problem-solving skills:
+
+1.Factorial of a Number
+Write a function to compute the factorial of a number.
+
+Prime Number Checker
+Write a function to check if a number is prime.
+
+Palindrome Checker
+Write a function to check if a string is a palindrome.
+
+Reverse a String
+Write a function to reverse a given string.
+
+Fibonacci Sequence
+Write a function to generate the Fibonacci sequence up to n terms.
+
+Sum of Digits
+Write a function to calculate the sum of the digits of a number.
+
+Anagram Checker
+Write a function to check if two strings are anagrams.
+
+Find Largest Number in an Array
+Write a function to find the largest number in an array.
+
+Find Smallest Number in an Array
+Write a function to find the smallest number in an array.
+
+Count Vowels and Consonants
+Write a function to count vowels and consonants in a string.
+
+Sum of Odd and Even Numbers
+Write a function to calculate the sum of odd and even numbers in an array.
+
+Array Sorting Algorithm (Bubble Sort)
+Implement the bubble sort algorithm.
+
+Merge Two Sorted Arrays
+Write a function to merge two sorted arrays into one sorted array.
+
+Find Missing Number in an Array
+Write a function to find the missing number in an array from 1 to n.
+
+Find the Second Largest Number in an Array
+Write a function to find the second-largest number in an array.
+
+Remove Duplicates from an Array
+Write a function to remove duplicate values from an array.
+
+Find the Intersection of Two Arrays
+Write a function to find the intersection of two arrays.
+
+Check for Balanced Parentheses
+Write a function to check if parentheses in a string are balanced.
+
+Count the Number of Occurrences of a Character
+Write a function to count the number of occurrences of a specific character in a string.
+
+Sum of Array Elements
+Write a function to calculate the sum of all elements in an array.
+
+Check if a String is a Number
+Write a function to check if a string is a valid number.
+
+Check if a String Contains a Substring
+Write a function to check if a string contains a specific substring.
+
+Find All Primes Up to N
+Write a function to find all prime numbers up to n.
+
+Find the GCD of Two Numbers
+Write a function to find the greatest common divisor (GCD) of two numbers.
+
+Find the LCM of Two Numbers
+Write a function to find the least common multiple (LCM) of two numbers.
+
+Check if a Number is a Power of Two
+Write a function to check if a number is a power of two.
+
+Create a Simple Calculator
+Write a function to create a simple calculator for addition, subtraction, multiplication, and division.
+
+Convert Decimal to Binary
+Write a function to convert a decimal number to binary.
+
+Convert Binary to Decimal
+Write a function to convert a binary number to decimal.
+
+Count the Number of Words in a String
+Write a function to count the number of words in a string.
+
+Find the Longest Word in a String
+Write a function to find the longest word in a string.
+
+Capitalize the First Letter of Each Word
+Write a function to capitalize the first letter of each word in a string.
+
+Check for Palindrome Number
+Write a function to check if a number is a palindrome.
+
+Remove Falsy Values from an Array
+Write a function to remove all falsy values (false, 0, "", null, undefined) from an array.
+
+Count the Number of Digits in a Number
+Write a function to count the number of digits in a number.
+
+Reverse an Array
+Write a function to reverse an array.
+
+Sum of Array of Objects
+Write a function to calculate the sum of a specific property from an array of objects.
+
+Check if Array is Sorted
+Write a function to check if an array is sorted in ascending order.
+
+Find the Longest Substring Without Repeating Characters
+Write a function to find the longest substring without repeating characters.
+
+Find the First Non-Repeating Character in a String
+Write a function to find the first non-repeating character in a string.
+
+Flatten an Array
+Write a function to flatten a multidimensional array.
+
+Sum of Even Numbers in an Array
+Write a function to calculate the sum of all even numbers in an array.
+
+Sum of Odd Numbers in an Array
+Write a function to calculate the sum of all odd numbers in an array.
+
+Find the Mode of an Array
+Write a function to find the mode (most frequent element) of an array.
+
+Find the Median of an Array
+Write a function to find the median of an array.
+
+Check if a String is an Isogram
+Write a function to check if a string is an isogram (no repeating letters).
+
+Merge Two Arrays Without Duplicates
+Write a function to merge two arrays without any duplicates.
+
+Create a Countdown Timer
+Write a function to create a countdown timer from a given time in seconds.
+
+Check for Armstrong Number
+Write a function to check if a number is an Armstrong number.
+
+Find the Maximum Product of Two Numbers in an Array
+Write a function to find the maximum product of two numbers in an array.
+
+Count the Number of Occurrences of Each Character
+Write a function to count the number of occurrences of each character in a string.
+
+Find the Missing Letter in a String
+Write a function to find the missing letter in a string of consecutive letters.
+
+Find All Divisors of a Number
+Write a function to find all divisors of a given number.
+
+Check if a Number is a Perfect Number
+Write a function to check if a number is a perfect number.
+
+Find the Largest Prime Factor of a Number
+Write a function to find the largest prime factor of a number.
+
+Create a Basic To-Do List
+Write a simple to-do list using JavaScript.
+
+Sort Words in a String Alphabetically
+Write a function to sort words in a string alphabetically.
+
+Generate a Random Number Between Two Numbers
+Write a function to generate a random number between two numbers.
+
+Check if a Year is a Leap Year
+Write a function to check if a given year is a leap year.
+
+Convert Celsius to Fahrenheit
+Write a function to convert a temperature from Celsius to Fahrenheit.
+
+Convert Fahrenheit to Celsius
+Write a function to convert a temperature from Fahrenheit to Celsius.
+
+Get the Day of the Week for a Date
+Write a function to return the day of the week for a given date.
+
+Find the Largest Common Prefix of Strings
+Write a function to find the longest common prefix of an array of strings.
+
+Check if Two Arrays Are Equal
+Write a function to check if two arrays are equal (same elements in the same order).
+
+Count the Number of Objects in an Array
+Write a function to count how many objects are in an array.
+
+Find the First Element in an Array that Meets a Condition
+Write a function to find the first element in an array that meets a specific condition.
+
+Convert a String to Title Case
+Write a function to convert a string to title case.
+
+Check if a String is Empty
+Write a function to check if a string is empty.
+
+Count Down from a Given Number
+Write a function to count down from a given number to 0.
+
+Sum of All Multiples of 3 and 5 Below 1000
+Write a function to calculate the sum of all multiples of 3 and 5 below 1000.
+
+Find the First Repeated Character in a String
+Write a function to find the first repeated character in a string.
+
+Sum of All Digits in a String
+Write a function to sum all digits in a given string.
+
+Create a Palindrome from a String
+Write a function to create a palindrome from a string by appending characters.
+
+Find the Count of Each Word in a String
+Write a function to find the count of each word in a string.
+
+Create a Fibonacci Series up to n Terms Using Recursion
+Write a function to generate the Fibonacci series using recursion.
+
+Get the Last Character of a String
+Write a function to return the last character of a string.
+
+Find All Numbers Divisible by 5 in an Array
+Write a function to find all numbers divisible by 5 in an array.
+
+Create a Countdown Timer (Milliseconds)
+Write a function to create a countdown timer that works with milliseconds.
+
+Find the Sum of All Primes Below 1000
+Write a function to find the sum of all prime numbers below 1000.
+
+Sort an Array of Strings by Length
+Write a function to sort an array of strings by their length.
+
+Find the Largest Common Divisor of an Array
+Write a function to find the largest common divisor (LCD) of all elements in an array.
+
+Check if a String is a Valid Email
+Write a function to check if a string is a valid email.
+
+Calculate the Area of a Circle
+Write a function to calculate the area of a circle given its radius.
+
+Create a Basic Contact Book
+Write a function to create a basic contact book using JavaScript.
+
+Generate a Random Hex Color Code
+Write a function to generate a random hex color code.
+
+Filter Array of Objects by Property Value
+Write a function to filter an array of objects based on a property value.
+
+Find the Sum of Positive Numbers in an Array
+Write a function to find the sum of all positive numbers in an array.
+
+Check if Two Strings Are Anagrams
+Write a function to check if two strings are anagrams (ignoring spaces).
+
+Find the Index of the First Occurrence of a Character in a String
+Write a function to find the index of the first occurrence of a character in a string.
+
+Check if a Number is a Prime Number Using Recursion
+Write a function to check if a number is prime using recursion.
+
+Find All Divisors of a Number
+Write a function to find all divisors of a given number.
+
+Find the Common Elements Between Two Arrays
+Write a function to find the common elements between two arrays.
+
+Find the Difference Between Two Arrays
+Write a function to find the difference between two arrays.
+
+Check if a String Contains Only Numbers
+Write a function to check if a string contains only numbers.
+
+Sort an Array of Objects by a Property
+Write a function to sort an array of objects based on a specific property.
+
+Create a Simple Alarm Clock
+Write a function to create a simple alarm clock that alerts you after a set amount of time.
+
+Generate a Random String of Letters and Numbers
+Write a function to generate a random string of letters and numbers.
+
+Check if Two Strings Have the Same Length
+Write a function to check if two strings have the same length.
+
+Count Down from a Given Time Using Recursion
+Write a function to count down from a given time using recursion.
+
+Get the Middle Character of a String
+Write a function to get the middle character of a string.
+
+Sum of Squares of Array Elements
+Write a function to calculate the sum of squares of all elements in an array.
+
+Check if a Number is an Even Number
+Write a function to check if a number is even.
+
+Check if a String is All Uppercase
+Write a function to check if a string contains only uppercase letters.
+
+Check if a String is All Lowercase
+Write a function to check if a string contains only lowercase letters.
+
+Find the Longest Substring with K Distinct Characters
+Write a function to find the longest substring containing exactly K distinct characters.
+
+Find the Common Prefix of Two Strings
+Write a function to find the common prefix between two strings.
+
+Remove White Spaces from a String
+Write a function to remove all white spaces from a string.
+
+Find the Frequency of Each Element in an Array
+Write a function to find the frequency of each element in an array.
+
+Find the Largest Product of Three Numbers in an Array
+Write a function to find the largest product of three numbers in an array.
+
+Find the First Non-Zero Element in an Array
+Write a function to find the first non-zero element in an array.
+
+Check if a Number is a Perfect Square
+Write a function to check if a number is a perfect square.
+
+Create a Multiplication Table
+Write a function to generate a multiplication table for a given number.
+
+Convert a Roman Numeral to an Integer
+Write a function to convert a Roman numeral into an integer.
+
+Find the Most Frequent Element in an Array
+Write a function to find the most frequent element in an array.
+
+Find the Largest Palindrome in a String
+Write a function to find the largest palindrome in a string.
+
+Find All Pairs in an Array that Add Up to a Given Sum
+Write a function to find all pairs of numbers in an array that add up to a given sum.
+
+Check if Two Arrays Are Identical
+Write a function to check if two arrays are identical (have the same elements in the same order).
+
+Find the Sum of Digits Until a Single Digit is Left
+Write a function to find the sum of digits of a number until it becomes a single digit.
+
+Create an Object from Two Arrays
+Write a function to create an object from two arrays: one for keys and one for values.
+
+Find the First Missing Positive Integer in an Array
+Write a function to find the first missing positive integer in an unsorted array.
+
+Count the Number of Prime Numbers Up to N
+Write a function to count how many prime numbers exist up to a given number n.
+
+Find the Sum of First N Natural Numbers
+Write a function to find the sum of the first n natural numbers.
+
+Check if an Array is a Subarray of Another Array
+Write a function to check if one array is a subarray of another.
+
+Check if a Number is a Power of Three
+Write a function to check if a number is a power of three.
+
+Find the Factorial of a Number Using Recursion
+Write a function to compute the factorial of a number using recursion.
+
+Check if Two Strings are Isomorphic
+Write a function to check if two strings are isomorphic.
+
+Find the Intersection of Multiple Arrays
+Write a function to find the intersection of multiple arrays.
+
+Get the Union of Two Arrays
+Write a function to find the union of two arrays.
+
+Generate a Random Number Between 1 and N
+Write a function to generate a random number between 1 and n.
+
+Find the Shortest Word in a String
+Write a function to find the shortest word in a string.
+
+Reverse a Number
+Write a function to reverse a given number.
+
+Check if a Number is a Fibonacci Number
+Write a function to check if a number is part of the Fibonacci sequence.
+
+Find the Sum of an Arithmetic Progression
+Write a function to find the sum of an arithmetic progression.
+
+Check if a String Contains All Alphabet Letters
+Write a function to check if a string contains all letters of the alphabet.
+
+Rotate an Array to the Right by K Positions
+Write a function to rotate an array to the right by k positions.
+
+Check if a String is a Valid Palindrome
+Write a function to check if a string is a valid palindrome (ignoring punctuation, spaces, and capitalization).
+
+Find the Number of Occurrences of a Word in a String
+Write a function to find how many times a word appears in a string.
+
+Sort an Array Using Merge Sort
+Write a function to implement the merge sort algorithm.
+
+Convert a String to a Number
+Write a function to convert a string to an integer.
+
+Find the Longest Word in an Array
+Write a function to find the longest word in an array of strings.
+
+Find the Kth Largest Element in an Array
+Write a function to find the kth largest element in an array.
+
+Find the Sum of All Multiples of 7 Between 1 and N
+Write a function to find the sum of all multiples of 7 between 1 and n.
+
+Find the First Repeated Character in an Array
+Write a function to find the first repeated character in an array of strings.
+
+Find the Smallest Missing Positive Integer
+Write a function to find the smallest missing positive integer in an unsorted array.
+
+Convert a String to a Date
+Write a function to convert a string to a JavaScript Date object.
+
+Find the Difference Between Two Dates
+Write a function to find the difference between two dates in days, hours, minutes, and seconds.
+
+Check if a Number is a Neon Number
+Write a function to check if a number is a neon number (the sum of the digits of the square of the number equals the number itself).
+
+Find the Product of All Numbers in an Array
+Write a function to find the product of all numbers in an array.
+
+Find the Length of a Longest Consecutive Sequence in an Array
+Write a function to find the length of the longest consecutive sequence in an array.
+
+Create a Function to Debounce a Click Event
+Write a function to debounce a click event to prevent multiple clicks.
+
+Find the Most Occurring Word in a String
+Write a function to find the most occurring word in a string.
+
+Check if Two Arrays are Anagrams
+Write a function to check if two arrays are anagrams.
+
+Convert a Number to Words
+Write a function to convert a number to its word representation.
+
+Check if a String is a Valid Phone Number
+Write a function to check if a string is a valid phone number (e.g., matching a given pattern).
+
+Find the Longest Common Substring
+Write a function to find the longest common substring of two strings.
+
+Find All Combinations of a String
+Write a function to find all combinations of a string.
+
+Calculate the Fibonacci Sequence Using Dynamic Programming
+Write a function to calculate Fibonacci numbers using dynamic programming.
+
+Find the Missing Number in a Sequence
+Write a function to find the missing number in an arithmetic sequence.
+
+Create a Function to Simulate a Simple Calculator
+Write a function to simulate a simple calculator for basic arithmetic operations.
+
+Sum of Even Fibonacci Numbers
+Write a function to calculate the sum of even Fibonacci numbers less than a given number n.
+
+Find the Frequency of Each Word in a Text
+Write a function to count the frequency of each word in a given text.
+
+Find the Median of Two Sorted Arrays
+Write a function to find the median of two sorted arrays.
+
+Count the Number of Times a Specific Character Appears in a String
+Write a function to count how many times a specific character appears in a string.
+
+Find All Subarrays in an Array
+Write a function to find all possible subarrays in a given array.
+
+Remove Specific Characters from a String
+Write a function to remove all occurrences of a specific character from a string.
+
+Find the Prime Factorization of a Number
+Write a function to find the prime factorization of a number.
+
+Check if a String is a Rotation of Another String
+Write a function to check if one string is a rotation of another string.
+
+Calculate the nth Prime Number
+Write a function to calculate the nth prime number.
+
+Sum of Multiples of a Given Number
+Write a function to calculate the sum of all multiples of a given number up to a certain range.
+
+Find the Number of Positive Integers in an Array
+Write a function to count the number of positive integers in an array.
+
+Check if a String Contains Only Alphabetic Characters
+Write a function to check if a string contains only alphabetic characters.
+
+Create a Function to Merge Two Arrays and Remove Duplicates
+Write a function to merge two arrays and remove duplicate elements.
+
+Find the Sum of All Integers from 1 to N
+Write a function to calculate the sum of all integers from 1 to n.
+
+Check if a String Contains Only Digits
+Write a function to check if a string contains only digits.
+
+Find the Smallest Positive Integer that is Missing in an Array
+Write a function to find the smallest positive integer that is missing in an array.
+
+Convert Time in Hours and Minutes to Total Minutes
+Write a function to convert a time string in hours and minutes to total minutes.
+
+Find the Missing Element in an Arithmetic Sequence
+Write a function to find the missing element in an arithmetic sequence.
+
+Create a Function to Calculate Exponentiation Using Recursion
+Write a function to calculate the power of a number using recursion.
+
+Find the Maximum Sum of a Subarray
+Write a function to find the maximum sum of any contiguous subarray.
+
+Check if a Number is a Strong Number
+Write a function to check if a number is a strong number (the sum of the factorial of each digit equals the number itself).
+
+Find the Length of the Shortest Word in a String
+Write a function to find the length of the shortest word in a string.
+
+Find the Index of the Last Occurrence of a Character in a String
+Write a function to find the index of the last occurrence of a character in a string.
+
+Count the Number of Even Numbers in an Array
+Write a function to count the number of even numbers in an array.
+
+Find the Minimum Product of Two Numbers in an Array
+Write a function to find the minimum product of two numbers in an array.
+
+Reverse an Array in Place
+Write a function to reverse an array in place without using an extra array.
+
+Find the Sum of the Digits of a Large Number
+Write a function to find the sum of the digits of a large number.
+
+Create a Countdown Timer
+Write a function to create a countdown timer.
+
+Remove All Elements Greater Than a Given Value in an Array
+Write a function to remove all elements greater than a given value from an array.
+
+Find the First Missing Positive Integer Using Constant Space
+Write a function to find the first missing positive integer with constant space complexity.
+
+Find the Total Number of Subsets of an Array
+Write a function to find the total number of subsets of an array.
+
+Check if Two Arrays Have the Same Elements (Order Doesn't Matter)
+Write a function to check if two arrays have the same elements, ignoring order.
+
+Find the Longest Common Subsequence of Two Strings
+Write a function to find the longest common subsequence between two strings.
+
+Check if a Number is a Perfect Number
+Write a function to check if a number is a perfect number (sum of its divisors equals the number itself).
+
+Remove All Occurrences of an Element in an Array
+Write a function to remove all occurrences of a specific element from an array.
+
+Find the Most Frequent Element in an Array
+Write a function to find the most frequent element in an array.
+
+Check if a Number is a Harshad Number
+Write a function to check if a number is a Harshad number (divisible by the sum of its digits).
+
+Find the Unique Elements in an Array
+Write a function to find the unique elements in an array.
+
+Find the Maximum Number of Consecutive 1's in a Binary Array
+Write a function to find the maximum number of consecutive 1's in a binary array.
+
+Check if a Number is a Fibonacci Number
+Write a function to check if a number is a Fibonacci number.
+
+Generate All Permutations of a String
+Write a function to generate all permutations of a given string.
+
+Find the Second Largest Number in an Array
+Write a function to find the second largest number in an array.
+
+Check if a String Contains Only Numbers
+Write a function to check if a string contains only numeric characters.
+
+Find the Longest Substring Without Repeating Characters
+Write a function to find the longest substring without repeating characters.
+
+Create a Function to Check for an Anagram
+Write a function to check if two strings are anagrams.
+
+Find the Sum of Digits in a Number
+Write a function to find the sum of digits of a given number.
+
+Find the Intersection of Two Arrays
+Write a function to find the intersection of two arrays (elements that appear in both arrays).
+
+Check if a String is a Valid Email
+Write a function to check if a given string is a valid email address.
+
+Check if a String is a Palindrome
+Write a function to check if a string is a palindrome.
+
+Find the Common Elements Between Multiple Arrays
+Write a function to find the common elements between multiple arrays.
+
+Reverse the Words in a String
+Write a function to reverse the order of words in a string.
+
+Convert a Decimal Number to Binary
+Write a function to convert a decimal number to binary.
+
+Find the Largest Number in an Array
+Write a function to find the largest number in an array.
+
+Find the Smallest Number in an Array
+Write a function to find the smallest number in an array.
+
+Check if a Number is a Prime
+Write a function to check if a given number is prime.
+
+Count the Vowels in a String
+Write a function to count the number of vowels in a string.
+
+Find the Product of Array Elements
+Write a function to find the product of all elements in an array.
+
+Find the Missing Number in an Array
+Write a function to find the missing number in an array of consecutive numbers.
+
+Sum of First N Natural Numbers
+Write a function to find the sum of the first n natural numbers.
+
+Remove Duplicates from an Array
+Write a function to remove duplicate values from an array.
+
+Sort an Array of Strings by Length
+Write a function to sort an array of strings based on their length.
+
+Find the Sum of Digits of a Number Until a Single Digit is Left
+Write a function to reduce a number by summing its digits until only one digit remains.
+
+Count the Occurrences of a Character in a String
+Write a function to count the occurrences of a specific character in a string.
+
+Find the Unique Characters in a String
+Write a function to find the unique characters in a string.
+
+Check if a String is a Valid Date
+Write a function to check if a string is a valid date.
+
+Find the Largest Palindrome in an Array of Strings
+Write a function to find the largest palindrome string in an array.
+
+Remove All Occurrences of a Specific Word from a String
+Write a function to remove all occurrences of a specific word from a string.
+
+Sum of Even Numbers in an Array
+Write a function to find the sum of all even numbers in an array.
+
+Find the Count of Digits in a Number
+Write a function to count the number of digits in a number.
+
+Find the Smallest Prime Factor of a Number
+Write a function to find the smallest prime factor of a given number.
+
+Convert a String to Title Case
+Write a function to convert a string to title case (capitalize the first letter of each word).
+
+Find the Length of a Linked List
+Write a function to find the length of a singly linked list.
+
+Check if Two Strings are Rotations of Each Other
+Write a function to check if one string is a rotation of another string.
+
+Find the Mode (Most Frequent Element) in an Array
+Write a function to find the mode (most frequent element) in an array.
+
+Check if a String is a Number
+Write a function to check if a string represents a valid number.
+
+Find the Greatest Common Divisor (GCD) of Two Numbers
+Write a function to find the greatest common divisor of two numbers.
+
+Convert a Binary Number to Decimal
+Write a function to convert a binary number (string) to a decimal number.
+
+Check if a String is a Valid Palindrome Ignoring Non-Alphanumeric Characters
+Write a function to check if a string is a palindrome, ignoring non-alphanumeric characters.
+
+Find the Sum of All Numbers in a Range
+Write a function to find the sum of all numbers between a and b (inclusive).
+
+Find the Largest Product of Two Numbers in an Array
+Write a function to find the largest product of two numbers in an array.
+
+Find the Nth Fibonacci Number
+Write a function to find the nth Fibonacci number.
+
+Remove All False Values from an Array
+Write a function to remove all falsy values (like false, null, undefined, 0, NaN, and empty strings) from an array.
+
+Find the Last Character of a String
+Write a function to find the last character of a string.
+
+Find the Longest Word in a Sentence
+Write a function to find the longest word in a sentence.
+
+Find the Index of a Specific Element in an Array
+Write a function to find the index of a specific element in an array.
+
+Check if a Year is a Leap Year
+Write a function to check if a year is a leap year.
+
+Find the Average of All Numbers in an Array
+Write a function to calculate the average of all numbers in an array.
+
+Check if a String Contains Only Alphabetic Characters and Spaces
+Write a function to check if a string contains only alphabetic characters and spaces.
+
+Reverse the Array Without Using Built-In Methods
+Write a function to reverse an array without using built-in methods.
+
+Check if an Array is Sorted in Ascending Order
+Write a function to check if an array is sorted in ascending order.
+
+Find the Largest Sum of a Contiguous Subarray
+Write a function to find the largest sum of any contiguous subarray.
+
+Count the Number of Words in a Sentence
+Write a function to count how many words are in a sentence.
+
+Generate a Random Integer Between Two Numbers
+Write a function to generate a random integer between two given numbers.
+
+Check if a String is a Valid IP Address
+Write a function to check if a string is a valid IPv4 address.
+
+Find the Median of an Array
+Write a function to find the median of an array.
+
+Find the Largest Odd Number in an Array
+Write a function to find the largest odd number in an array.
+
+Check if a Number is a Power of Two
+Write a function to check if a number is a power of two.
+
+Find the Longest Common Prefix in an Array of Strings
+Write a function to find the longest common prefix in an array of strings.
+
+Find the Sum of Prime Numbers in a Range
+Write a function to find the sum of all prime numbers in a given range.
+
+Generate All Combinations of an Array
+Write a function to generate all combinations of an array.
+
+Find the Longest Word in a String (Ignoring Special Characters)
+Write a function to find the longest word in a string while ignoring special characters.
+
+Find the Largest Number in a List of Strings
+Write a function to find the largest number from a list of strings that can be converted to numbers.
+
+Find All Perfect Numbers up to a Given Limit
+Write a function to find all perfect numbers up to a given limit.
+
+Convert a String into an Array of Words
+Write a function to split a string into an array of words.
+
+Find the Sum of All Positive Integers in an Array
+Write a function to find the sum of all positive integers in an array.
+
+Create a Function to Capitalize Each Word in a Sentence
+Write a function to capitalize the first letter of each word in a sentence.
+
+Count the Number of True Values in an Array
+Write a function to count the number of true boolean values in an array.
+
+Check if a Number is a Neon Number
+Write a function to check if a number is a neon number (the sum of the digits of its square equals the number).
+
+Find the Sum of Even Fibonacci Numbers Below a Given Limit
+Write a function to find the sum of even Fibonacci numbers less than a given limit.
+
+Check if an Array Contains Any Duplicates
+Write a function to check if an array contains any duplicate elements.
+
+Find the Index of the First Occurrence of a Character in a String
+Write a function to find the index of the first occurrence of a character in a string.
+
+Calculate the Factorial of a Number
+Write a function to calculate the factorial of a number.
+
+Check if a String is a Pangram
+Write a function to check if a string is a pangram (contains all the letters of the alphabet).
+
+Find the Sum of the Diagonal Elements in a 2D Array
+Write a function to find the sum of the diagonal elements in a 2D array.
+
+Create a Function to Get the Current Date and Time
+Write a function to get the current date and time in a human-readable format.
+
+Find the Largest Divisor of a Number
+Write a function to find the largest divisor of a number.
+
+Find the Product of Elements in an Array
+Write a function to find the product of all elements in an array.
+
+Create a Function to Check if a String is a Valid Hex Color Code
+Write a function to check if a string is a valid hex color code.
+
+Sum of All Divisors of a Number
+Write a function to calculate the sum of all divisors of a given number.
+
+Check if a String is a Valid URL
+Write a function to check if a string is a valid URL.
+
+Find the Longest Palindromic Substring in a String
+Write a function to find the longest palindromic substring in a string.
+
+Find the First Non-Repeated Character in a String
+Write a function to find the first non-repeated character in a string.
+
+Generate a Random Hex Color Code
+Write a function to generate a random hex color code.
+
+Find the Number of Words in a String Using Recursion
+Write a function to count the number of words in a string using recursion.
+
+Find the Largest Sum of Non-Adjacent Numbers in an Array
+Write a function to find the largest sum of non-adjacent numbers in an array.
+
+Create a Function to Check if a String is a Valid Hexadecimal Number
+Write a function to check if a string is a valid hexadecimal number.
+
+Sort an Array in Descending Order
+Write a function to sort an array in descending order.
+
+Find the Most Common Character in a String
+Write a function to find the most common character in a string.
+
+Find the Longest Word in a List of Words
+Write a function to find the longest word in a list of words.
+
+Check if a String is a Valid Number with Decimal Points
+Write a function to check if a string represents a valid number with decimal points.
+
+Sum of All Odd Numbers Between Two Given Numbers
+Write a function to find the sum of all odd numbers between two given numbers.
+
+Create a Function to Check if a Number is a Narcissistic Number
+Write a function to check if a number is a narcissistic number (the sum of its digits raised to the power of the number of digits equals the number itself).
+
+Count the Number of Digits in a String
+Write a function to count the number of digits in a string.
+
+Reverse the Digits of a Number
+Write a function to reverse the digits of a number.
+
+Find the Sum of All Odd Numbers in an Array
+Write a function to find the sum of all odd numbers in an array.
+
+Convert a Binary String to a Decimal Number
+Write a function to convert a binary string to a decimal number.
+
+Check if Two Strings are Substrings of Each Other
+Write a function to check if two strings are substrings of each other.
+
+Create a Function to Count the Total Number of Vowels in a String
+Write a function to count the total number of vowels in a string.
+
+Find the Least Common Multiple (LCM) of Two Numbers
+Write a function to find the least common multiple of two numbers.
+
+Find the Most Frequent Word in an Array of Strings
+Write a function to find the most frequent word in an array of strings.
+
+Create a Function to Swap Two Numbers Without Using a Third Variable
+Write a function to swap two numbers without using a third variable.
+
+Count the Number of Even Numbers in an Array
+Write a function to count the number of even numbers in an array.
+
+Check if a Number is a Perfect Square
+Write a function to check if a given number is a perfect square.
+
+Find the Most Common Element in an Array
+Write a function to find the most common (frequent) element in an array.
+
+Convert a String to a Number
+Write a function to convert a string to a number.
+
+Count the Number of Occurrences of Each Character in a String
+Write a function to count the occurrences of each character in a string.
+
+Find the Sum of All Odd Numbers in an Array
+Write a function to find the sum of all odd numbers in an array.
+
+Generate Fibonacci Sequence up to a Given Number
+Write a function to generate the Fibonacci sequence up to a given number.
+
+Check if a Number is a Palindrome
+Write a function to check if a number is a palindrome.
+
+Sum All Numbers Between Two Numbers
+Write a function to sum all numbers between two given numbers.
+
+Find the Minimum Number of Moves to Make an Array Sorted
+Write a function to find the minimum number of moves needed to sort an array.
+
+Find All Substrings of a String
+Write a function to find all substrings of a string.
+
+Count All Unique Elements in an Array
+Write a function to count all unique elements in an array.
+
+Convert an Array to a String
+Write a function to convert an array into a string.
+
+Find the Highest Prime Number Less Than a Given Number
+Write a function to find the highest prime number less than a given number.
+
+Reverse an Array Without Using Reverse Method
+Write a function to reverse an array without using the built-in reverse() method.
+
+Check if a String is a Valid Anagram of Another String
+Write a function to check if one string is an anagram of another string.
+
+Find the Sum of the Diagonal Elements in a Matrix
+Write a function to calculate the sum of the diagonal elements in a square matrix.
+
+Create a Function to Generate Random Numbers in a Range
+Write a function to generate random numbers between a given range.
+
+Find the Largest Prime Factor of a Number
+Write a function to find the largest prime factor of a number.
+
+Count the Number of Letters in a String
+Write a function to count how many letters (alphabetic characters) are in a string.
+
+Check if a String is a Valid Roman Numeral
+Write a function to check if a string is a valid Roman numeral.
+
+Find the Sum of Even Fibonacci Numbers Below a Given Limit
+Write a function to calculate the sum of even Fibonacci numbers below a given limit.
+
+Count the Total Number of Words in a String
+Write a function to count the total number of words in a string.
+
+Find the Largest Number Divisible by 5 in an Array
+Write a function to find the largest number divisible by 5 in an array.
+
+Check if a Year is a Leap Year
+Write a function to check if a year is a leap year.
+
+Create a Function to Check if a String is a Valid Hexadecimal Color Code
+Write a function to check if a string is a valid hexadecimal color code.
+
+Find the Common Elements Between Two Arrays
+Write a function to find the common elements between two arrays.
+
+Check if a Given String is a Substring of Another String
+Write a function to check if a given string is a substring of another string.
+
+Calculate the Factorial of a Number Using Recursion
+Write a function to calculate the factorial of a number using recursion.
+
+Find the Smallest Element in a Nested Array
+Write a function to find the smallest element in a nested array.
+
+Find the Sum of All Array Elements in a Multi-Dimensional Array
+Write a function to calculate the sum of all array elements in a multi-dimensional array.
+
+Create a Function to Check if Two Arrays Have the Same Elements
+Write a function to check if two arrays contain the same elements, regardless of order.
+
+Count the Number of Positive Numbers in an Array
+Write a function to count the number of positive numbers in an array.
+
+Find the Largest Odd Number in an Array
+Write a function to find the largest odd number in an array.
+
+Find the Total Number of Digits in a Number
+Write a function to calculate the total number of digits in a given number.
+
+Check if a String Contains Only Letters and Digits
+Write a function to check if a string contains only letters and digits.
+
+Find the First Repeated Character in a String
+Write a function to find the first repeated character in a string.
+
+Create a Function to Sum the Odd Numbers in an Array
+Write a function to sum all odd numbers in an array.
+
+Find the Length of the Longest Word in a String
+Write a function to find the length of the longest word in a string.
+
+Check if a Number is a Strong Number
+Write a function to check if a number is a Strong number (the sum of the factorials of its digits equals the number).
+
+Check if a String is a Palindrome Ignoring Spaces and Case
+Write a function to check if a string is a palindrome, ignoring spaces and case.
+
+Find the Product of All Numbers in a Range
+Write a function to calculate the product of all numbers between two given numbers.
+
+Create a Function to Check if a String is a Valid Credit Card Number
+Write a function to check if a string is a valid credit card number.
+
+Convert a Binary Number to a Decimal Number
+Write a function to convert a binary number (string) to decimal.
+
+Create a Function to Remove All Duplicates from an Array
+Write a function to remove all duplicate elements from an array.
+
+Find the Number of Digits in a Number Using Recursion
+Write a function to find the number of digits in a number using recursion.
+
+Convert a String into a Character Array
+Write a function to convert a string into an array of characters.
+
+Find the Sum of All Digits in a Number
+Write a function to find the sum of all digits in a number.
+
+Generate All Possible Combinations of Elements in an Array
+Write a function to generate all possible combinations of elements from an array.
+
+Check if a String Contains Only Digits
+Write a function to check if a string contains only digits.
+
+Check if Two Strings Are Case-Insensitive Anagrams
+Write a function to check if two strings are anagrams, ignoring case.
+
+Find the Product of All Elements in a Multi-Dimensional Array
+Write a function to calculate the product of all elements in a multi-dimensional array.
+
+Find the Most Frequent Digit in a Number
+Write a function to find the most frequent digit in a given number.
+
+Check if a String is a Valid IPv4 Address
+Write a function to check if a string is a valid IPv4 address.
+
+Find the First Non-Repeated Element in an Array
+Write a function to find the first non-repeated element in an array.
+
+Create a Function to Calculate the Sum of Squares of an Array
+Write a function to calculate the sum of squares of an array.
+
+Find the Common Characters Between Two Strings
+Write a function to find the common characters between two strings.
+
+Convert a Decimal Number to Hexadecimal
+Write a function to convert a decimal number to hexadecimal.
+
+Check if a Number is a Fibonacci Number
+Write a function to check if a number is part of the Fibonacci sequence.
+
+Find the Largest Divisor of a Number
+Write a function to find the largest divisor of a number less than the number itself.
+
+Create a Function to Capitalize the First Letter of Each Word in a Sentence
+Write a function to capitalize the first letter of each word in a sentence.
+
+Find the Longest Substring with K Distinct Characters
+Write a function to find the longest substring with k distinct characters.
+
+Find the Number of Vowels and Consonants in a String
+Write a function to count the number of vowels and consonants in a string.
+
+Find the Average of All Elements in an Array
+Write a function to find the average of all elements in an array.
+
+Check if a String Starts and Ends with the Same Character
+Write a function to check if a string starts and ends with the same character.
+
+Create a Function to Reverse a String
+Write a function to reverse a given string.
+
+Check if an Array Contains Only Unique Elements
+Write a function to check if an array contains only unique elements.
+
+Create a Function to Get the Intersection of Two Arrays
+Write a function to get the intersection of two arrays.
+
+Find the Index of a Specific Element in an Array
+Write a function to find the index of a specific element in an array.
+
+Count the Number of Words in a Sentence Using Recursion
+Write a function to count the number of words in a sentence using recursion.
+
+Generate a Random Color
+Write a function to generate a random color.
+
+Find the Length of the Shortest Word in a String
+Write a function to find the length of the shortest word in a string.
+
+Check if a String Contains Only Alphabetic Characters
+Write a function to check if a string contains only alphabetic characters.
+
+Find the Number of Unique Characters in a String
+Write a function to find the number of unique characters in a string.
+
+Find the Longest Palindromic Substring Using Recursion
+Write a function to find the longest palindromic substring using recursion.
+
+Create a Function to Find the Square Root of a Number
+Write a function to find the square root of a number.
+
+Check if a Number is a Narcissistic Number
+Write a function to check if a number is narcissistic (the sum of its digits raised to the power of the number of digits equals the number itself).
+
+Find the Median of a Set of Numbers
+Write a function to find the median of a set of numbers.
+
+Create a Function to Find the Total Number of Elements in a Multi-Dimensional Array
+Write a function to find the total number of elements in a multi-dimensional array.
+
+Find the Nth Fibonacci Number Using Recursion
+Write a function to find the Nth Fibonacci number using recursion.
+
+Find the Frequency of Each Element in an Array
+Write a function to find the frequency of each element in an array.
+
+Find the Common Elements Between Multiple Arrays
+Write a function to find the common elements between multiple arrays.
+
+Create a Function to Check if a String is a Valid Palindrome
+Write a function to check if a string is a palindrome (ignoring spaces and punctuation).
+
+Check if Two Strings are One Edit Away from Each Other
+Write a function to check if two strings are one edit away from each other (insertion, deletion, or replacement).
+
+Check if an Array is Symmetric
+Write a function to check if an array is symmetric (its reverse is equal to the original).
+
+Find the Longest Common Substring Between Two Strings
+Write a function to find the longest common substring between two strings.
+
+Create a Function to Remove All Whitespaces from a String
+Write a function to remove all whitespaces from a string.
+
+Check if a Given String is a Valid Date
+Write a function to check if a given string represents a valid date.
+
+Find the Longest Palindrome Substring in a String Using Dynamic Programming
+Write a function to find the longest palindromic substring in a string using dynamic programming.
+
+Create a Function to Calculate the Square of Each Element in an Array
+Write a function to calculate the square of each element in an array.
+
+Find the Largest Number in a Linked List
+Write a function to find the largest number in a linked list.
+
+Create a Function to Merge Two Sorted Arrays
+Write a function to merge two sorted arrays into one sorted array.
+
+Find the GCD of Two Numbers Using Recursion
+Write a function to find the greatest common divisor (GCD) of two numbers using recursion.
+
+Find the Count of Words in a String
+Write a function to count how many words are in a string.
+
+Create a Function to Swap Two Elements in an Array
+Write a function to swap two elements in an array.
+
+Find the Missing Element in an Array of Consecutive Numbers
+Write a function to find the missing element in an array of consecutive numbers.
+
+Find the Longest Common Prefix in an Array of Strings
+Write a function to find the longest common prefix in an array of strings.
+
+Find the Smallest Element in a Linked List
+Write a function to find the smallest element in a linked list.
+
+Check if a String is a Number
+Write a function to check if a string is a valid number.
+
+Create a Function to Find the Greatest Number in an Array
+Write a function to find the greatest number in an array.
+
+Find the Intersection of Two Arrays
+Write a function to find the intersection (common elements) between two arrays.
+
+Find the Nth Largest Element in an Array
+Write a function to find the Nth largest element in an array.
+
+Check if a String Contains Only Alphabetical Characters
+Write a function to check if a string contains only alphabetical characters.
+
+Count the Number of Occurrences of a Specific Element in an Array
+Write a function to count the number of times a specific element appears in an array.
+
+Find the Sum of All Digits of a Number
+Write a function to find the sum of all digits of a number.
+
+Check if a String Contains Balanced Parentheses
+Write a function to check if a string contains balanced parentheses.
+
+Find the Missing Number in a Sequence of Numbers
+Write a function to find the missing number in a sequence of numbers.
+
+Check if Two Arrays Have the Same Elements, Regardless of Order
+Write a function to check if two arrays have the same elements, regardless of order.
+
+Check if a Number is a Power of Two
+Write a function to check if a number is a power of two.
+
+Find the Most Frequent Word in a Sentence
+Write a function to find the most frequent word in a sentence.
+
+Find the Least Common Multiple (LCM) of Two Numbers
+Write a function to find the least common multiple of two numbers.
+
+Find the Sum of All Prime Numbers Less Than a Given Number
+Write a function to find the sum of all prime numbers less than a given number.
+
+Check if a String is a Pangram
+Write a function to check if a string is a pangram (contains all letters of the alphabet).
+
+Find the Largest Element in a Matrix
+Write a function to find the largest element in a 2D matrix.
+
+Reverse a Sentence Without Reversing Words
+Write a function to reverse the order of words in a sentence, but keep the words themselves in the same order.
+
+Find the Longest Consecutive Sequence in an Array
+Write a function to find the longest consecutive sequence of numbers in an unsorted array.
+
+Find the Sum of Elements at Even Indices in an Array
+Write a function to find the sum of elements at even indices in an array.
+
+Create a Function to Convert a String to Title Case
+Write a function to convert a string to title case (capitalize the first letter of each word).
+
+Create a Function to Check if a Number is Prime
+Write a function to check if a given number is prime.
+
+Find the GCD (Greatest Common Divisor) of Two Numbers
+Write a function to find the greatest common divisor of two numbers.
+
+Find the Smallest Prime Factor of a Number
+Write a function to find the smallest prime factor of a number.
+
+Check if Two Strings are One Edit Away
+Write a function to check if two strings are one edit (insert, delete, or replace) away.
+
+Count the Number of Palindromes in an Array of Strings
+Write a function to count how many palindromes are in an array of strings.
+
+Find the Median of Two Sorted Arrays
+Write a function to find the median of two sorted arrays.
+
+Find the Number of Unique Elements in an Array
+Write a function to find the number of unique elements in an array.
+
+Create a Function to Check if a Number is an Armstrong Number
+Write a function to check if a number is an Armstrong number (the sum of its digits raised to the power of the number of digits equals the number itself).
+
+Find the Most Frequent Element in an Array
+Write a function to find the most frequent element in an array.
+
+Sum All Numbers Divisible by 3 or 5 Below a Given Limit
+Write a function to find the sum of all numbers below a limit that are divisible by 3 or 5.
+
+Create a Function to Find the Maximum Subarray Sum
+Write a function to find the maximum sum of a contiguous subarray in an array of integers.
+
+Find the Factorial of a Number Using Iteration
+Write a function to calculate the factorial of a number using iteration.
+
+Create a Function to Remove All Even Numbers from an Array
+Write a function to remove all even numbers from an array.
+
+Check if a String is a Valid URL
+Write a function to check if a given string is a valid URL.
+
+Create a Function to Merge Two Sorted Arrays Without Duplicates
+Write a function to merge two sorted arrays without duplicates.
+
+Find the Number of Vowels in a String
+Write a function to find the number of vowels in a string.
+
+Create a Function to Swap Two Variables Without a Temporary Variable
+Write a function to swap two variables without using a temporary variable.
+
+Find the Sum of All Numbers in an Array Using Recursion
+Write a function to find the sum of all numbers in an array using recursion.
+
+Find the Difference Between the Maximum and Minimum in an Array
+Write a function to find the difference between the maximum and minimum values in an array.
+
+Create a Function to Generate the Fibonacci Sequence Up to N Numbers
+Write a function to generate the Fibonacci sequence up to the Nth number.
+
+Check if a String is a Valid Palindrome Ignoring Punctuation and Spaces
+Write a function to check if a string is a palindrome ignoring punctuation and spaces.
+
+Find the Index of the First Non-Repeated Character in a String
+Write a function to find the index of the first non-repeated character in a string.
+
+Check if Two Strings are Anagrams of Each Other
+Write a function to check if two strings are anagrams of each other.
+
+Find the Common Characters Between Two Strings
+Write a function to find the common characters between two strings.
+
+Count the Number of Words in a String
+Write a function to count the number of words in a string.
+
+Find the Largest Prime Factor of a Number
+Write a function to find the largest prime factor of a number.
+
+Check if a Number is a Perfect Number
+Write a function to check if a number is a perfect number (sum of its divisors equals the number).
+
+Create a Function to Get the Unique Elements of an Array
+Write a function to get the unique elements from an array.
+
+Find the Sum of All Even Fibonacci Numbers Below a Limit
+Write a function to find the sum of all even Fibonacci numbers below a given limit.
+
+Find the Average of All Numbers in a Nested Array
+Write a function to find the average of all numbers in a nested array.
+
+Create a Function to Check if an Array is Sorted in Ascending Order
+Write a function to check if an array is sorted in ascending order.
+
+Find the Longest Word in a String
+Write a function to find the longest word in a string.
+
+Create a Function to Flatten a Nested Array
+Write a function to flatten a nested array (convert it into a one-dimensional array).
+
+Check if a String is a Valid JSON
+Write a function to check if a string is valid JSON.
+
+Find the Sum of All Odd Numbers in an Array
+Write a function to find the sum of all odd numbers in an array.
+
+Find the Largest Divisor of a Number
+Write a function to find the largest divisor of a number less than the number itself.
+
+Create a Function to Find the Intersection of Multiple Arrays
+Write a function to find the intersection of multiple arrays.
+
+Check if a String Contains Only Digits
+Write a function to check if a string contains only digits.
+
+Find the Highest Product of Three Numbers in an Array
+Write a function to find the highest product of three numbers in an array.
+
+Create a Function to Reverse an Array
+Write a function to reverse the elements in an array.
+
+Check if a String is a Valid Email Address
+Write a function to check if a string is a valid email address.
+
+Find the Sum of Digits of a Number Using Recursion
+Write a function to find the sum of digits of a number using recursion.
+
+Create a Function to Find the Mode of an Array
+Write a function to find the mode (most frequent value) of an array.
+
+Check if a Given Year is a Leap Year
+Write a function to check if a given year is a leap year.
+
+Find the Longest Palindrome Substring in a String
+Write a function to find the longest palindromic substring in a string.
+
+Create a Function to Find the Square Root of a Number
+Write a function to find the square root of a number.
+
+Find the Product of All Numbers in an Array
+Write a function to find the product of all numbers in an array.
+
+Create a Function to Convert an Array to a Set
+Write a function to convert an array to a set (unique values only).
+
+Find the Sum of Array Elements Using Reduce
+Write a function to calculate the sum of array elements using the reduce method.
+
+Find the Longest Consecutive Subsequence in an Array
+Write a function to find the longest consecutive subsequence in an array.
+
+Check if a String is a Valid Anagram of Another String
+Write a function to check if a string is a valid anagram of another string.
+
+Create a Function to Find the Count of Even Numbers in an Array
+Write a function to find the count of even numbers in an array.
+
+Find the Largest Product of Two Numbers in an Array
+Write a function to find the largest product of two numbers in an array.
+
+Find the Shortest Word in a String
+Write a function to find the shortest word in a string.
+
+Check if a String is a Valid Date
+Write a function to check if a string is a valid date.
+
+Find the First Repeated Character in a String
+Write a function to find the first repeated character in a string.
+
+Create a Function to Sort an Array in Descending Order
+Write a function to sort an array in descending order.
+
+Find the Missing Element in a Consecutive Number Sequence
+Write a function to find the missing element in a consecutive number sequence.
+
+Create a Function to Find the Longest Substring Without Repeating Characters
+Write a function to find the longest substring without repeating characters.
+
+Count the Number of Negative Numbers in an Array
+Write a function to count the number of negative numbers in an array.
+
+Find the Greatest Common Divisor (GCD) of an Array
+Write a function to find the greatest common divisor of all elements in an array.
+
+Find the Smallest Element in an Array
+Write a function to find the smallest element in an array.
+
+Check if a String is a Valid IP Address
+Write a function to check if a string is a valid IPv4 address.
+
+Find the First Non-Repeated Element in an Array
+Write a function to find the first non-repeated element in an array.
+
+Count the Number of Prime Numbers Between Two Numbers
+Write a function to count the number of prime numbers between two given numbers.
+
+Create a Function to Find the Largest Number Less Than a Given Number
+Write a function to find the largest number less than a given number in an array.
+
+Check if a String Contains a Substring
+Write a function to check if a string contains a specific substring.
+
+Count the Occurrences of a Character in a String
+Write a function to count the occurrences of a character in a string.
+
+Find the Greatest Product of Two Numbers in an Array
+Write a function to find the greatest product of two numbers in an array.
+
+Find the Second Largest Element in an Array
+Write a function to find the second-largest element in an array.
+
+Find the Average of Numbers in an Array
+Write a function to find the average of numbers in an array.
+
+Create a Function to Merge Two Arrays Without Duplicates
+Write a function to merge two arrays without duplicates.
+
+Check if an Array is a Subset of Another Array
+Write a function to check if one array is a subset of another array.
+
+Find the Nth Fibonacci Number
+Write a function to find the Nth Fibonacci number.
+
+Find the Sum of All Numbers Divisible by 6 in an Array
+Write a function to find the sum of all numbers divisible by 6 in an array.
+
+Check if a String is a Valid Anagram
+Write a function to check if a string is a valid anagram.
+
+Find the Sum of Even Numbers in an Array
+Write a function to find the sum of all even numbers in an array.
+
+Create a Function to Reverse the Words in a Sentence
+Write a function to reverse the words in a sentence.
+
+Count the Number of Prime Numbers in an Array
+Write a function to count the number of prime numbers in an array.
+
+Find the Frequency of Each Character in a String
+Write a function to find the frequency of each character in a string.
+
+Check if Two Arrays Have the Same Length
+Write a function to check if two arrays have the same length.
+
+Create a Function to Check if a Number is Even
+Write a function to check if a number is even.
