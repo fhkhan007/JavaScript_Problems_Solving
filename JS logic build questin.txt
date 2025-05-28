@@ -1,9 +1,8 @@
 Here are 500 logic-building JavaScript questions that can help you sharpen your problem-solving skills:
 
-1.Factorial of a Number
-Write a function to compute the factorial of a number.
+1. Factorial of a Number . Write a function to compute the factorial of a number.
 
-Prime Number Checker
+2. Prime Number Checker
 Write a function to check if a number is prime.
 
 Palindrome Checker

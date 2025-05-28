@@ -1,6 +1,7 @@
 // 1.Factorial of a Number
 // Write a function to compute the factorial of a number.
-
+// git push --set-upstream origin main
+/*
 function fact(n) {
 
     if(n<0) return "Factorisl not defined for negative Numbers";
@@ -15,3 +16,22 @@ function fact(n) {
 }
 
 console.log(fact(5));
+*/
+
+// 2. Prime Number Checker . Write a function to check if a number is prime.
+
+function primenumber(num){
+    
+    if(num<2 )
+        return `${num}number is not prime`;
+
+    for (let i =2; i<=Math.sqrt(num); i++){
+        if(num%i ===0){
+            return `${num} is not a prime number`
+        }
+    }
+    return `${num} is a prime number`
+   
+}
+
+console.log(primenumber(5));
