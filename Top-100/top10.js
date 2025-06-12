@@ -20,18 +20,32 @@ console.log(fact(5));
 
 // 2. Prime Number Checker . Write a function to check if a number is prime.
 
-function primenumber(num){
+// function primenumber(num){
     
-    if(num<2 )
-        return `${num}number is not prime`;
+//     if(num<2 )
+//         return `${num}number is not prime`;
 
-    for (let i =2; i<=Math.sqrt(num); i++){
-        if(num%i ===0){
-            return `${num} is not a prime number`
-        }
-    }
-    return `${num} is a prime number`
+//     for (let i =2; i<=Math.sqrt(num); i++){
+//         if(num%i ===0){
+//             return `${num} is not a prime number`
+//         }
+//     }
+//     return `${num} is a prime number`
    
+// }
+
+// console.log(primenumber(5));
+
+// 3. Write a function to check if a string is a palindrome.
+
+function isPalindrom(str) {
+    let onlyLettersAndNumbers = str.replace(/[^a-zA-Z0-9]/g, '');
+
+    let lowercaseStr = onlyLettersAndNumbers.toLowerCase();
+
+    let reversedStr = lowercaseStr.split('').reverse().join('');
+
+    return lowercaseStr === reversedStr ;
 }
 
-console.log(primenumber(5));
+console.log(isPalindrom(' nan'));
