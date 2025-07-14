@@ -2,14 +2,11 @@ Here are 500 logic-building JavaScript questions that can help you sharpen your 
 
 1. Factorial of a Number . Write a function to compute the factorial of a number.
 
-2. Prime Number Checker
-Write a function to check if a number is prime.
+2. Prime Number Checker . Write a function to check if a number is prime.
 
-Palindrome Checker
-Write a function to check if a string is a palindrome.
+3. Palindrome Checker. Write a function to check if a string is a palindrome.
 
-Reverse a String
-Write a function to reverse a given string.
+4.Reverse a String . Write a function to reverse a given string.
 
 Fibonacci Sequence
 Write a function to generate the Fibonacci sequence up to n terms.

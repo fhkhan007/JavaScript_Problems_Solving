@@ -38,14 +38,29 @@ console.log(fact(5));
 
 // 3. Write a function to check if a string is a palindrome.
 
-function isPalindrom(str) {
-    let onlyLettersAndNumbers = str.replace(/[^a-zA-Z0-9]/g, '');
+// function isPalindrom(str) {
+//     let onlyLettersAndNumbers = str.replace(/[^a-zA-Z0-9]/g, '');
 
-    let lowercaseStr = onlyLettersAndNumbers.toLowerCase();
+//     let lowercaseStr = onlyLettersAndNumbers.toLowerCase();
 
-    let reversedStr = lowercaseStr.split('').reverse().join('');
+//     let reversedStr = lowercaseStr.split('').reverse().join('');
 
-    return lowercaseStr === reversedStr ;
+//     return lowercaseStr === reversedStr ;
+// }
+
+// console.log(isPalindrom(' nan'));
+
+// 4. Reverse a String . Write a function to reverse a given string.
+
+let name = 'hello';
+let result = name.split('');
+console.log(result);
+
+function reverseString (str){
+    return str
+    .split('')
+    .reverse()
+    .join()
 }
 
-console.log(isPalindrom(' nan'));
+console.log(reverseString("arman"));
