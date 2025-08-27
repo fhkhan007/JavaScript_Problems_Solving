@@ -96,17 +96,38 @@ console.log(fact(5));
 
 // console.log(sumOfDigits(234));
 
-//  Anagram Checker . Write a function to check if two strings are anagrams.
+// 7. Anagram Checker . Write a function to check if two strings are anagrams.
 
-function isAnagram (str1, str2) {
-    str1 = str1.replace(/\s+/g).toLowerCase();
-    str2 = str2.replace(/\s+/g).toLowerCase();
+// function isAnagram (str1, str2) {
+//     str1 = str1.replace(/\s+/g).toLowerCase();
+//     str2 = str2.replace(/\s+/g).toLowerCase();
 
-    if(str1.length !== str2.length) {
-        return false;
+//     if(str1.length !== str2.length) {
+//         return false;
+//     }
+
+//     return str1.split('').sort().join('') === str2.split('').sort().join('');
+// }
+
+// console.log(isAnagram('listen', 'silen'));
+
+
+
+// 8. Find Largest Number in an Array . Write a function to find the largest number in an array.
+
+function findLargestNumber(arr) {
+    if (arr.length === 0) {
+        return null ;
     }
 
-    return str1.split('').sort().join('') === str2.split('').sort().join('');
+    let largest = arr[0]; // assume first element is the largest
+
+    for(let i=0; i<arr.length; i++) {
+        if(arr[i] > largest){
+            largest = arr[i]; // update largest if a bigger number is found
+        }
+    }
+    return largest;
 }
 
-console.log(isAnagram('listen', 'silen'));
+console.log(findLargestNumber([3, 7, 2, 9, 5]));
