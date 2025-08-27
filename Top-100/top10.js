@@ -81,17 +81,32 @@ console.log(fact(5));
 
 // 6. Sum of Digits . Write a function to calculate the sum of the digits of a number.
 
-function sumOfDigits (num) {
-    let sum=0;
+// function sumOfDigits (num) {
+//     let sum=0;
 
-    num = Math.abs(num);
+//     num = Math.abs(num);
 
-    while(num > 0) {
-        let digit = num %10;
-        sum = sum + digit ;
-        num = Math.floor(num / 10)
+//     while(num > 0) {
+//         let digit = num %10;
+//         sum = sum + digit ;
+//         num = Math.floor(num / 10)
+//     }
+//     return  sum;
+// }
+
+// console.log(sumOfDigits(234));
+
+//  Anagram Checker . Write a function to check if two strings are anagrams.
+
+function isAnagram (str1, str2) {
+    str1 = str1.replace(/\s+/g).toLowerCase();
+    str2 = str2.replace(/\s+/g).toLowerCase();
+
+    if(str1.length !== str2.length) {
+        return false;
     }
-    return  sum;
+
+    return str1.split('').sort().join('') === str2.split('').sort().join('');
 }
 
-console.log(sumOfDigits(234));
+console.log(isAnagram('listen', 'silen'));
